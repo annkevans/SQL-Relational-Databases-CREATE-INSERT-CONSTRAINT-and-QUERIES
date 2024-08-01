@@ -1,6 +1,6 @@
 /*This code compiles Department of Transportation Data to create a database with seven tables, 95 tuple insertions, and five queries.
 The database aims to synthesize consumer complaints for insights into various aspects of commercial air travel, such as type of complaint (for example baggage, refunds, etcetera).
-See business rules, ERD relationships, data dictionary, and more at
+See business rules, ERD, ERD relationships, data dictionary, and more at
 https://www.linkedin.com/in/annkevans/overlay/1709721092672/single-media-viewer/?
 Additional demonstrations of this project are available:
 https://public.tableau.com/app/profile/ann.evans4070
